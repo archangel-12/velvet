@@ -1,3 +1,1 @@
-#### it's open source so feel free to have a look...
-
-###### ~~nationalism will always be a stupid idea for me. you shouldn't love a country that doesn't love you back. you shouldn't love a country that doesn't even protect your rights. you shouldn't love a country that makes your life more complicated just because you're different and mean harm to anyone~~
+#### it's open source so feel free to have a look :)
