@@ -8,7 +8,7 @@
   <img src="/core/app/favicon.ico" alt="Velvet-logo" width="90" height="90" />
 </p>
 
-<h2 align="center">Velvet</h2>
+<h3 align="center">Velvet</h3>
 
 <p align="center">
   Untuk melihat deskripsi asli, bisa membaca teks <a href="./core/readme.md">sebelumnya</a>
