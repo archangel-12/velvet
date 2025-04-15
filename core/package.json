@@ -1,0 +1,48 @@
+{
+  "name": "velvet",
+  "description": "chatbot, but related to history alike !",
+  "author": "matthew {thenothing_12 || archangel-12} alexander",
+  "license": "MIT",
+  "categories": [
+    "AI",
+    "Chat",
+    "Education",
+    "Testing",
+    "Machine Learning"
+  ],
+  "version": "1.0.2",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/groq": "^1.2.8",
+    "@clerk/nextjs": "^6.15.0",
+    "@radix-ui/react-slot": "^1.2.0",
+    "@tailwindcss/postcss": "^4.1.4",
+    "ai": "^4.3.6",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.7.2",
+    "lucide-react": "^0.488.0",
+    "next": "15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwind-merge": "^3.2.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@types/node": "^22.14.1",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "eslint": "^9.24.0",
+    "eslint-config-next": "15.3.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4",
+    "typescript": "^5.8.3"
+  }
+}
