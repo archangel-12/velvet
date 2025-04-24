@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/archangel-12/velvet/core"><strong>Explore the codes »</strong></a>
+  <a href="https://github.com/archangel-12/velvet/core"><strong>Explore the code's »</strong></a>
 </p>
 
 <p align="center">
   <a href="/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Mit_license" />
   </a>
 </p>
 
@@ -32,20 +32,28 @@
 </p>
 
 <details>
-    <summary>Table of Contents</summary>
-    <ol>
-        <li>
-            <a href="#what-is-velvet?">What is Velvet?</a>
-        </li>
-        <li>
-            <a href="#what-is-that-supposed-to-mean?">What is that supposed to mean?</a>
-        </li>
-        <li>
-            <a href="#why-am-i-doing-this">Why am I doing this?</a>
-        </li>
-        <li><a href="#what-tools-and-plugins-did-you-use-while-creating-velvet?">What tools and plugins did you use while creating Velvet?</a></li>
-        <li><a href="#project-timeline">📘 Project Timeline</a></li>
-    </ol>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#what-is-velvet">What is Velvet?</a>
+    </li>
+    <li>
+      <a href="#what-is-that-supposed-to-mean"
+        >What is that supposed to mean?</a
+      >
+    </li>
+    <li>
+      <a href="#why-am-i-doing-this">Why am I doing this?</a>
+    </li>
+    <li>
+      <a href="#what-tools-and-plugins-did-you-use-while-creating-velvet"
+        >What tools and plugins did you use while creating Velvet?</a
+      >
+    </li>
+    <li>
+      <a href="#project-timeline">📘 Project Timeline</a>
+    </li>
+  </ol>
 </details>
 
 > [!IMPORTANT]  

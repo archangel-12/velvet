@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: Vercel
-message: 'It''s a chatbot, but related to history alike !'
+message: "It's a chatbot, but related to history alike !"
 type: software
 authors:
   - given-names: Matthew Alexander
@@ -21,13 +21,13 @@ keywords:
   - Undergrad thesis
 license: MIT
 version: 1.0.0
-date-released: '2025-05-10'
+date-released: '2025-05'
 preferred-citation:
   type: article
   authors:
     - family-names: Panggabean 
       given-names: Matthew Alexander 
-  title: "PENGGUNAAN ARTIFICIAL INTELLIGENCE VELVET UNTUK BELAJAR SEJARAH" 
+  title: "Penggunaan Artificial Intelligence untuk belajar Sejarah" 
   year: 2025
 
 references:

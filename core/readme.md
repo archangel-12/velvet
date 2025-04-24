@@ -11,7 +11,7 @@
 <h3 align="center">Velvet</h3>
 
 <p align="center">
-  Untuk melihat deskripsi asli, bisa membaca teks <a href="./core/readme.md">sebelumnya</a>
+  Untuk melihat deskripsi asli, bisa membaca teks <a href="/readme.md">sebelumnya</a>
 </p>
 
 <p align="center">
@@ -28,16 +28,16 @@
     <summary>Daftar Isi</summary>
     <ol>
         <li>
-            <a href="#Apa-itu-velvet?">Apa itu Velvet?</a>
+            <a href="#apa-itu-velvet">Apa itu Velvet?</a>
         </li>
         <li>
-            <a href="#Hah-maksud?">Hah, maksud?</a>
+            <a href="#hah-maksud">Hah, maksud?</a>
         </li>
         <li>
-            <a href="#Kok-kepikiran-sih-buat-beginian?">Kok kepikiran sih buat beginian?</a>
+            <a href="#kok-kepikiran-sih-buat-beginian">Kok kepikiran sih buat beginian?</a>
         </li>
-        <li><a href="#Pakai-plugin-apa-aja-untuk-buat-velvet?">Pakai plugin apa aja untuk buat velvet?</a></li>
-        <li><a href="#Alur-waktu-pengembangan-Velvet">📘 Alur waktu pengembangan Velvet</a></li>
+        <li><a href="#pakai-plugin-apa-aja-untuk-buat-velvet">Pakai plugin apa aja untuk buat velvet?</a></li>
+        <li><a href="#📘-alur-waktu-pengembangan-Velvet">📘 Alur waktu pengembangan Velvet</a></li>
     </ol>
 </details>
 
@@ -75,7 +75,7 @@ Proyek ini hanyalah bukti kecil bahwa siapa pun dapat melakukan hal-hal menakjub
    9. Dan terakhir, memakai <a href="https://dashboard.clerk.com/"><img src="https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white" alt="clerk"></a> hal-hal yang berhubungan dengan *back-end* 
 ---
 
-### 📘 Alur sejarah pengembangan Velvet
+### 📘 Alur waktu pengembangan Velvet
 Proyek ini dimulai pada pertengahan akhir 2023 sebagai wacana semata, kemudian berhenti sepanjang 2024 karena KKN dan magang mengajar, dan sekarang bisa dikatakan proyek ini hampir selesai. Berikut adalah *timeline* sejauh ini:
 | fase               | Status          | Tanggal dimulai | Tanggal berakhir | Catatan                                      |
 |----------------------------|------------------|--------------|--------------|---------------------------------------------|
